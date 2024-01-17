@@ -1,0 +1,15 @@
++ Nrite a description of class Reversedigit here.
+* Cauthor (BITA/6/22/036/12-NATHAYO EMWANUEL KYARA, Github account :matheomarcel, LINS account:)
+* Aversion (12th-jan-2924)
+* ASSIGNMENTO1-JAVA FUNDAMENTALS QNT1
+inport java.util.Scanner;
+public class Reversedigit{
+public static void main(Stringl] args){
+Scanner input=new Scanner(System.in);
+System. out.println( "Enter a 2-digit integer with a non-zero rightnost digit:");
+int x = input .nextInt();
+int y =(x $ 18) 18 + x / 19;
+int sum = X + y;
+Systen. out.println( 'x: +x);
+System.out. printin("y: Hy);
+System.out. println( "x + y: " + sum);
